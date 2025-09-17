@@ -1,1 +1,1 @@
-console.log("Add payments");
+console.log("payment added");
